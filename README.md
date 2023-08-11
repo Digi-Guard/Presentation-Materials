@@ -3,6 +3,6 @@ The presentation materails Repo contains a pdf version of our slide deck used to
 <BR>
 
 ## Links to Resources
-[Presentation Slide Deck]()
+[Presentation Slide Deck](https://github.com/Digi-Guard/Presentation-Materials/blob/main/Presentation%20Deck.pdf)
 
 [Presentation Video]()
